@@ -1,7 +1,7 @@
 """
 Solutions to assignment 3
-"""
-
+index number:5240100317 
+Class:iteD1
 """
 1.Write a Python program to reverse the string "Programming". Print the reversed string.
 Hint: Use string slicing or a loop.
